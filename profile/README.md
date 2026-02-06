@@ -32,7 +32,7 @@ Every company's policies are different, but tools force you into rigid defaults 
 
 ## Starting With
 
-**PTO & Leave Management** — fastest time-to-value in the category.
+**PTO & Leave Management**.
 
 Connect Google Workspace or Slack → import employees → configure policies → employees request PTO from Slack on day one.
 
@@ -44,7 +44,6 @@ Expanding into scheduling, custom approval workflows, compliance reporting, and 
 
 We sit in the gap between lightweight PTO trackers and heavyweight HRIS platforms.
 
-**Not replacing your HR system. Making it unnecessary for 80% of daily interactions.**
 
 ---
 
